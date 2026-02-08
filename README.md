@@ -5,5 +5,6 @@ I have some experience with coding html and css as you can see in [my website](h
 I take digital technology because I enjoy coding and hope to one day have a job that involves coding or 3d modeling.
 my hobbies include: coding, reading and gaming on my switch.
 my favorite games to play at the moment are the Batman Arkham trilogy games 
+<br>
 <img src="Batman_Arkham_series_logo.png" width="200">
 
