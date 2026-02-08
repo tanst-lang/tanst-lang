@@ -6,5 +6,5 @@ I take digital technology because I enjoy coding and hope to one day have a job 
 my hobbies include: coding, reading and gaming on my switch.
 my favorite games to play at the moment are the Batman Arkham trilogy games 
 <br>
-<img src="Batman_Arkham_series_logo.png" width="200">
-
+<img src="Batman_Arkham_series_logo.png" width="200"> 
+<img src="Minecraft_2024_cover_art.png" width="100">
